@@ -8,9 +8,12 @@ This repository contains all relevant files and scripts used for the AI-Assisted
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Querying Models](#querying-models)
+- [Analysis](#analysis)
 - [Data Files Explanation](#data-files-explanation)
 - [Contribution](#contribution)
 - [License](#license)
+
 
 ## 📖 Introduction
 

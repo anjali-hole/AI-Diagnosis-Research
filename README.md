@@ -3,14 +3,14 @@ This repository contains all relevant files and scripts used for the AI-Assisted
 
 ## 📑 Table of Contents
 
-- [Introduction](#Introduction)
-- [Project Structure](#Project-Structure)
-- [Requirements](#Requirements)
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Data Files Explanation](#Data-Files-Explanation)
-- [Contribution](#Contribution)
-- [License](#License)
+- [Introduction](#introduction)
+- [Project Structure](#project-structure)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Data Files Explanation](#data-files-explanation)
+- [Contribution](#contribution)
+- [License](#license)
 
 ## 📖 Introduction
 

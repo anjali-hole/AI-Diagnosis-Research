@@ -108,7 +108,7 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 
 ## 📄 License
 
-This repository is licensed under the MIT License. See the [LICENSE](#MIT-License) file for more information.
+This repository is licensed under the MIT License.
 
 ### MIT License
 MIT License

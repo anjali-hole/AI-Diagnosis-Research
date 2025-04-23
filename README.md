@@ -1,7 +1,7 @@
-# 🚀 AI Research Repository
+# AI Research Repository
 This repository contains all relevant files and scripts used for the AI-Assisted Diagnosis project titled "Evaluating LLMs for AI-Assisted Preliminary Medical Diagnosis: Accuracy, Risks, and Telehealth Integration". This project focuses on assessing the accuracy, safety, and potential integration of various large language models (LLMs) like Claude, Gemini, and OpenAI into telehealth platforms for preliminary medical diagnoses.
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Introduction](#-introduction)
 - [Project Structure](#-project-structure)
@@ -15,11 +15,11 @@ This repository contains all relevant files and scripts used for the AI-Assisted
 - [License](#-license)
 
 
-## 📖 Introduction
+## Introduction
 
 The purpose of this project is to evaluate the performance of several state-of-the-art LLMs in providing preliminary medical diagnoses based on case descriptions. The evaluation is done by comparing their responses against professional medical assessments, conducting risk analysis, and proposing strategies for safe integration into telehealth platforms.
 
-## 🗂 Project Structure
+## Project Structure
 
 ```.
 ├── README.md                  # Project documentation
@@ -32,7 +32,7 @@ The purpose of this project is to evaluate the performance of several state-of-t
 ├── llm_responses_openai.csv    # CSV file storing OpenAI model responses
 ├── patient_cases.csv           # Dataset of medical cases used for evaluation
 ```
-## 📦 Requirements
+## Requirements
 
 To run the code files, the following libraries are required:
 
@@ -48,7 +48,7 @@ Install them via:
 
 ```pip install pandas numpy openai requests```
 
-## 🔧 Installation
+## Installation
 
 Clone the repository:
 
@@ -62,7 +62,7 @@ Install the required libraries:
 
 ```pip install -r requirements.txt```
 
-## 💡 Usage
+## Usage
 
 The scripts are organized to allow querying of various LLMs and saving their responses. 
 
@@ -76,7 +76,7 @@ GEMINI_API_KEY=your_gemini_key
 
 Replace your_openai_key, your_claude_key, and your_gemini_key with your actual API keys.
 
-## 📌 Querying Models
+## Querying Models
 
 Claude Model:
 
@@ -90,7 +90,7 @@ OpenAI Model:
 
 ```python openai_diagnostic_query.py```
 
-## 📊 Analysis
+## Analysis
 
 All model responses are saved in respective CSV files (llm_responses_claude.csv, llm_responses_gemini.csv, llm_responses_openai.csv) for further analysis. Consolidated analysis is stored in all_data_with_analysis.xlsx.
 
@@ -102,11 +102,11 @@ All model responses are saved in respective CSV files (llm_responses_claude.csv,
 
 ```all_data_with_analysis.xlsx```: Consolidated analysis of all models' performance, with statistical metrics and comparison tables.
 
-## 🤝 Contribution
+## Contribution
 
 Contributions are welcome! Feel free to submit a pull request or open an issue to discuss any changes.
 
-## 📄 License
+## License
 
 This repository is licensed under the MIT License.
 
